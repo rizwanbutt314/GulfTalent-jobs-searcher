@@ -6,7 +6,7 @@ This scraper scraps the jobs from GulfTalent website
 * Python 2.7
 * Pip (Python package installer)
 
-## Steps to run
+## Steps to run:
  * Clone this repository
  * Go inside the repo.
  * Run 'pip install -r requirements.txt' command in terminal
