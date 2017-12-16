@@ -1,5 +1,5 @@
 __author__ = 'Rizwan Hameed'
-__date__ = 'October 29, 2017'
+__date__ = 'December 16, 2017'
 """
 Check out my main scraping projects !
 https://www.youtube.com/playlist?list=PLh2kzLvQxb76sv7s6aUB6378zy4Tkpzv0
